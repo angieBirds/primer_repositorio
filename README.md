@@ -1,2 +1,2 @@
 # Mi Primer Repositorio
-REpositorio creado dentro de github.com
+Repositorio creado dentro de github.com
